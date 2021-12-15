@@ -16,7 +16,7 @@
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Business Goal
--To model the demand for shared bikes with the available independent variables, which will be used by the management to understand how exactly the demands vary with different features.This helps in manipulate the business strategy to meet the demand levels and meet the customer's expectations. Further, the model will be a good way for management to understand the demand dynamics of a new market. 
+- To model the demand for shared bikes with the available independent variables, which will be used by the management to understand how exactly the demands vary with different features.This helps in manipulate the business strategy to meet the demand levels and meet the customer's expectations. Further, the model will be a good way for management to understand the demand dynamics of a new market. 
 
 ## Multiple Linear Regression
 - All the relationship between independent and target variable is identified and studied. The outlier treatment and univariate analysis of all the columns is done.
