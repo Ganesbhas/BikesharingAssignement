@@ -5,7 +5,7 @@
 ## Table of Contents
 * [General Info](#general-information)
 * [Business Goal](#Business-Goal)
-* [Linear Regression](#Multiple-Linear_Regression)
+* [Linear Regression](#Multiple-Linear-Regression)
 * [Conclusions](#conclusions)
 
 <!-- You can include any other section that is pertinent to your problem -->
